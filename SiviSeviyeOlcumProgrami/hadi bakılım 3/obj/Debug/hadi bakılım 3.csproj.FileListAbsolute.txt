@@ -1,0 +1,13 @@
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\bin\Debug\hadi bakılım 3.exe.config
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\bin\Debug\hadi bakılım 3.exe
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\bin\Debug\hadi bakılım 3.pdb
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\obj\Debug\hadi bakılım 3.csproj.AssemblyReference.cache
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\obj\Debug\hadi bakılım 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\obj\Debug\hadi_bakılım_3.Form1.resources
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\obj\Debug\hadi_bakılım_3.Properties.Resources.resources
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\obj\Debug\hadi bakılım 3.csproj.GenerateResource.cache
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\obj\Debug\hadi bakılım 3.csproj.CoreCompileInputs.cache
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\obj\Debug\hadi bakılım 3.exe
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\obj\Debug\hadi bakılım 3.pdb
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\obj\Debug\hadi_bakılım_3.Giris.resources
+C:\Users\CİHAT\Source\Repos\hadi bakılım 3\hadi bakılım 3\obj\Debug\hadi_bakılım_3.Phakkinda.resources
